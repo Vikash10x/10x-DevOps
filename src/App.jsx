@@ -52,7 +52,7 @@ function App() {
         </div>
 
         <h2 className="sub-heading">Congratulations</h2>
-        <h1 className="name-heading">Vikash Kumawat</h1>
+        <h1 className="name-heading">Vikash Kumawattttttttttttt</h1>
 
         <p className="congrats-message">
           🎉 Wishing you immense success, continuous growth, and great achievements ahead!
